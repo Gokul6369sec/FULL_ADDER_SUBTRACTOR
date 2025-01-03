@@ -1,6 +1,8 @@
-# FULL_ADDER_SUBTRACTOR
+### GOKULAN R
+### REG NO : 24900991
+# EXP NO : 4
 
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
+# Implementation of Full Adder and Full subtractor circuit
 
 **AIM:**
 
@@ -38,18 +40,62 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
+FULL ADDER :
+
+![image](https://github.com/user-attachments/assets/abc113e3-2e6a-466f-839a-472dd3cdb69b)
+
+FULL SUBTRACTOR :
+
+![image](https://github.com/user-attachments/assets/4bbf1d4c-ef91-4d65-a51c-6c287a240575)
+
 **Procedure**
 
-Write the detailed procedure here
+
+
+
+
+Full Adder : 
+1.Open Quartus II and create a new project. 
+2.Use schematic design entry to draw the full adder circuit. 
+3.The circuit consists of XOR, AND, and OR gates.
+4.Compile the design, verify its functionality through simulation. 5.Implement the design on the target device and program it.
+
+Full Subtractor : 
+1.Follow the same steps as for the full adder. 
+2.Draw the full subtractor circuit using schematic design.
+3.The circuit includes XOR, AND, OR gates to perform subtraction. 4.Compile, simulate, implement, and program the design similarly to the full adder.
+
+
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+FULL ADDER :
+
+![Screenshot 2024-12-21 210904](https://github.com/user-attachments/assets/a2aa42a8-2954-4bd4-8abe-eea57866ad4c)
+
+FULL SUBTRACTOR :
+
+![Screenshot 2024-12-21 214528](https://github.com/user-attachments/assets/9b86c759-fbff-4bb6-a01a-a5acba83294c)
 
 **RTL Schematic**
 
+FULL ADDER :
+
+![Screenshot 2024-12-21 210444](https://github.com/user-attachments/assets/2ef79360-fe7d-4cbd-af0f-abcc9f5d2dc7)
+
+FULL SUBTRACTOR :
+
+![Screenshot 2024-12-21 214541](https://github.com/user-attachments/assets/140549c0-bbdf-4917-bc87-e171b6475bbb)
+
 **Output Timing Waveform**
+
+FULL ADDER :
+
+![Screenshot 2024-12-21 210817](https://github.com/user-attachments/assets/0118492c-147c-4ca2-a1f2-8729b405f9ab)
+
+FULL SUBTRACTOR :
+
+![Screenshot 2024-12-21 214938](https://github.com/user-attachments/assets/8f3f5f92-1ba2-494c-b333-bfa0e30b36ad)
 
 **Result:**
 
